@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LpHfaiEWMMYrEtj8h69s9qHhnQNUOn7/vrhpat/qQaECPkN3k3rfT7hMyIi0mp0p02M7Q+ix6BLF3U2OexGVFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gio\\Desktop\\forGIt\\MyLinkedList\\ConsoleApp30\\ConsoleApp30.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gio\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\gio\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\gio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\gio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
